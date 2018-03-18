@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    <category><pattern>HI</pattern>
+        <template>
+        <random>
+            <li>Hi!</li>
+            <li>Hello!</li>
+            <li>What's up!</li>
+            <li>Hi there!</li>
+        </random>
+        I am an expert on fruits  and I can tell you about any of them.
+        Please write a fruit name and check my knowledge.
+        </template>
+    </category>
+
+    <category><pattern>HELLO</pattern>
+        <template>
+            <random>
+                <li>Hi</li>
+                <li>Hello</li>
+                <li>What's up</li>
+                <li>Hi there</li>
+            </random>
+            I am an expert on fruits  and I can tell you about any of them.
+        Please write a fruit name and check my knowledge.
+        </template>
+    </category>
+
+    <category><pattern>HI THERE</pattern>
+        <template>
+            <random>
+                <li>Hi</li>
+                <li>Hello</li>
+                <li>What's up</li>
+                <li>Hi there</li>
+            </random>
+            I am an expert on fruits  and I can tell you about any of them.
+        Please write a fruit name and check my knowledge.
+        </template>
+    </category>
+
+    <category><pattern>HEY</pattern>
+        <template>
+            <random>
+                <li>Hi</li>
+                <li>Hello</li>
+                <li>What's up</li>
+                <li>Hi there</li>
+            </random>
+            I am an expert on fruits  and I can tell you about any of them.
+        Please write a fruit name and check my knowledge.
+        </template>
+    </category>
+
+
+    <category><pattern>BYE</pattern>
+        <template>
+            <random>
+                <li>Bye!</li>
+                <li>Goodby!</li>
+                <li>See You next time!</li>
+            </random>
+        </template>
+    </category>
+
+    <category><pattern>GOODBY</pattern>
+        <template>
+            <random>
+                <li>Bye!</li>
+                <li>Goodby!</li>
+                <li>See You next time!</li>
+            </random>
+        </template>
+    </category>
+
+    <category><pattern>END</pattern>
+        <template>
+            <random>
+                <li>Bye!</li>
+                <li>Goodby!</li>
+                <li>See You next time!</li>
+            </random>
+        </template>
+    </category>
+
+    <category><pattern>BYEBYE *</pattern>
+        <template>
+            <random>
+                <li>Bye!</li>
+                <li>Goodby!</li>
+                <li>See You next time!</li>
+            </random>
+        </template>
+    </category>
+
+    <category><pattern>HAVE A GOOD NIGHT</pattern>
+        <template>
+            <random>
+                <li>Bye!</li>
+                <li>Goodby!</li>
+                <li>See You next time!</li>
+            </random>
+        </template>
+    </category>
+
+    <category><pattern>HAVE TO GO</pattern>
+        <template>
+            <random>
+                <li>Bye!</li>
+                <li>Goodby!</li>
+                <li>See You next time!</li>
+            </random>
+        </template>
+    </category>
+
+    <category><pattern>BUHBYE</pattern>
+        <template>
+            <random>
+                <li>Bye!</li>
+                <li>Goodby!</li>
+                <li>See You next time!</li>
+            </random>
+        </template>
+    </category>
+
+    <category><pattern>ADIOS</pattern>
+        <template>
+            <random>
+                <li>Bye!</li>
+                <li>Goodby!</li>
+                <li>See You next time!</li>
+            </random>
+        </template>
+    </category>
+
+    <category><pattern>BY BY</pattern>
+        <template>
+            <random>
+                <li>Bye!</li>
+                <li>Goodby!</li>
+                <li>See You next time!</li>
+            </random>
+        </template>
+    </category>
+   
+    <category>
+    <pattern>LETS SPEAK ABOUT *</pattern>
+    <template>I am EXPERT in fruits! I dont want to speak about <star/>, just only FRUITS!</template>
+    </category>
+
+    <category>
+    <pattern>*</pattern>
+    <template>Sorry,i am so tired i dont want to speak about "<star/>" right now! Lets speak about it next time XD</template>
+    </category>
+</aiml>

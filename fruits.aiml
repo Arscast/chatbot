@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category><pattern>APPLE</pattern>
+<template>Granny Smith, Royal Gala, Golden Delicious and Pink Lady are just a few of the thousands of different kinds of apple that are grown around the world! You can make dried apple rings at home - ask an adult to help you take out the core, thinly slice the apple and bake the rings in the oven at a low heat.</template>
+</category>
+<category><pattern>APRICOT</pattern>
+<template>Apricots can be eaten fresh or dried - both are packed with vitamins! Fresh apricots have a soft and slightly furry skin. They make a good lunchbox snack. Apricots are also high in beta-carotene - this helps us keep our eyes and skin healthy.</template>
+</category>
+<category><pattern>ASPARAGUS</pattern>
+<template>Asparagus is a shoot vegetable – we eat the stalk and the tip. It makes any dish look more interesting with its unusual shape. Asparagus is a good source of a vitamin called folate, which is important for healthy blood.</template>
+</category>
+<category><pattern>AUBERGINE</pattern>
+<template>Most aubergines are teardrop-shaped and have a glossy purple skin. On the inside, they are spongy and creamy white. Aubergines grow on bushes and are really fruits - although you wouldn't want to eat them raw. Australians and Americans call it eggplant because some types look a bit like large eggs!</template>
+</category>
+<category><pattern>AVOCADO</pattern>
+<template>It is sometimes called an avocado pear. Avocado is often mistaken for a vegetable because we eat it like a salad vegetable, but it is actually a fruit. Avocados are at their best when they are ripe and very easy to prepare. They can simply be cut in half with the stone removed and eaten with a little salad dressing or chopped into a salad. Avocados are a good source of essential fats (the good ones) - one of the few fruits or vegetables that contain fat.</template>
+</category>
+<category><pattern>BANANA</pattern>
+<template>Bananas make a nutritious snack! They are a great source of energy and contain lots of vitamins and minerals, especially potassium, which is important to help cells, nerves and muscles in your body to work properly and it helps to lower blood pressure. They have a thick skin to protect them, which is green before bananas are ripe, and get more yellow in colour and sweeter in taste as they ripen. We peel away the skin and eat the soft fleshy part of the fruit underneath. Bananas grow in hanging clusters, sometimes called hands, on the banana plant in tropical regions like Southeast Asia. You can eat them raw, baked, dried or in a smoothie. Why don't you try mashing it up and have it with yoghurt or porridge or even on brown toast?</template>
+</category>
+<category><pattern>BEETROOT</pattern>
+<template>Beetroot is the root of the beet plant - which explains its name! People have grown it for food since Roman times. Raw beetroot is best for you and great for grating - peel it first. Try it in a salad or sandwich. Small beetroots are usually the sweetest. Ahhhh!</template>
+</category>
+<category><pattern>BLACK-EYE BEAN</pattern>
+<template>In America, these beans are often called black-eyed peas or cow peas. They each have a little black dot on the side - this is where they were once attached to their pod, so it's a bit like a belly button! You can mix them with all sorts of other beans to make a super salad.</template>
+</category>
+<category><pattern>BROAD BEAN</pattern>
+<template>Another name for this bean is the ‘Fava bean’. Broad beans grow in a green, leathery pod. The beans can be eaten fresh, when they are green, or dried, when they have turned brown. The way to identify them is by their flat, broad shape. Beans are a good source of protein and fibre.</template>
+</category>
+<category><pattern>BROCCOLI</pattern>
+<template>Broccoli is closely related to cabbage - and it's another one of those 'greens' we're always being told to eat up. The part of a broccoli plant we normally eat is the lovely flowerhead - the flowers are usually green but sometimes purple. Steamed broccoli is tasty in a salad or stir-fry.</template>
+</category>
+<category><pattern>BRUSSELS SPROUT</pattern>
+<template>Brussels sprouts are like mini cabbages! They grow out of the ground in knobbly rows on a long tough stalk. They contain loads of vitamin C. Can you guess which country BRUSSELS sprouts originally came from? Well, Brussels is the capital city of Belgium!</template>
+</category>
+<category><pattern>BUTTERNUT SQUASH</pattern>
+<template>Butternut squash is large and pear-shaped with a golden-brown to yellow skin. We don't eat the skin and seeds, only the flesh. The flesh is really hard when it is raw but it turns soft and sweet when it is cooked. It can be roasted, pureed, mashed or used in soups or casseroles. It is a good source of beta-carotene, which is turned into vitamin A in the body. Beta-carotene gives the flesh its bright orange colour.</template>
+</category>
+<category><pattern>CARROT</pattern>
+<template>Carrots grow underground and they can be used in all sorts of dishes - from casseroles to cakes. Raw carrots are great to crunch on and they make a healthy juice, too. They contain lots of beta-carotene - this helps us keep our eyes and skin healthy.</template>
+</category>
+<category><pattern>CHERRY</pattern>
+<template>Cherries are stone fruits - just like their friends the apricots. A cherry tree can carry on producing fruit for 100 years! Cherries grow from stalks in pairs. Ahhh! Sweet ones like the Bing cherry are nicest on their own or in a fruit salad. Sour ones like Morello cherries are tastier cooked.</template>
+</category>
+<category><pattern>CLEMENTINE</pattern>
+<template>This citrus fruit is the smallest of the tangerines. The skin of Clementines can be peeled away easily and the segments don’t contain pips, which makes them a lot less messy to eat than some other varieties. They smell so delicious and naturally sweet. They are often eaten at Christmas time. Citrus fruits are a good source of vitamin C.</template>
+</category>
+<category><pattern>COURGETTE</pattern>
+<template>A courgette is a type of squash and if it isn't picked early, it grows into a marrow! Courgettes grow on bushes. They look quite like cucumbers and have very soft seeds. They can be cooked with onions, tomatoes, aubergines and peppers to make ratatouille. The American name for a courgette is 'zucchini'.</template>
+</category>
+<category><pattern>DATE</pattern>
+<template>Dates are the fruit of the date palm tree and lots of them are grown in Egypt and California (USA). Dried dates make a super sweet snack. They can be chopped and sprinkled on cereal instead of sugar or honey.</template>
+</category>
+<category><pattern>ELDERBERRY</pattern>
+<template>These little, almost black berries grow on bushes all over the countryside in summer! They aren't good to eat raw but they are berry nice cooked with other fruits in pies or used to make jam!
+
+WARNING: Some berries are poisonous, so don't pick them without checking with an adult first. And never eat the leaves!</template>
+</category>
+<category><pattern>ENDIVE</pattern>
+<template>Endive is a member of the lettuce family. It is shaped like a bulb and has leaves that overlap each other - try peeling them off one by one to see how many there are. The leaves are a bit bitter on their own but they are delicious in a salad mixed with sweet tomatoes and slices of orange.</template>
+</category>
+<category><pattern>FENNEL</pattern>
+<template>This vegetable tastes a bit like liquorice! Fennel is a plant that grows in the ground. A bulb shape grows at the base of the plant, and this is the part that you eat. Raw fennel adds a super crunchy taste to salads. You can also slice it and cook it like onion or celery to use in casseroles. The feathery leaves and seeds add flavouring to cooking, just like herbs.</template>
+</category>
+<category><pattern>FIG</pattern>
+<template>Figs are soft sweet fruits, full of small seeds and often eaten dried. They grow on trees. Fresh figs are delicious and jams and chutneys are often made from them. The skin of a fig is very thin and ripe figs do not keep or travel very well so in warm countries figs are dried.</template>
+</category>
+<category><pattern>GARLIC</pattern>
+<template>Did you know garlic can help keep mosquitoes away?! And yes, garlic can make your breath smell a bit... garlicky! We eat all different parts of plants and garlic is the bulb. Open it up and you'll see lots of segments - or cloves - with a papery covering. You only need to use one or two of these to add loads of extra flavour to a food.</template>
+</category>
+<category><pattern>GRAPE</pattern>
+<template>Grapes grow in bunches on vines. On the inside, they are sweet, juicy and jelly-like. Green grapes are also called white grapes and are dried to make sultanas. Purple ones can be called black grapes and are dried to make raisins. There are red grapes too - red grape juice tastes totally delicious!</template>
+</category>
+<category><pattern>GREEN BEAN</pattern>
+<template>French beans, runner beans, common beans, bobby beans, string beans, Thai beans, wax beans and haricots verts are all names for different types of green bean. Wax beans aren't even green - they can be yellow or purple! Green beans are picked when they are very young - they should be bright in colour and firm. If the pods are bendy, they won't taste sweet and crunchy! To eat the beans, the ends should be chopped off - this is called topping and tailing. They only need to be cooked in boiling water for a few minutes then they are ready to eat. In France, they are often eaten in a salad with potatoes and tuna. Ask an adult to help you make one! Green beans are a good source of fibre, which helps keep your tummy healthy. They also contain beta-carotene, which helps us keep our eyes and skin healthy.</template>
+</category>
+<category><pattern>GUAVA</pattern>
+<template>The guava fruit is widely grown in tropical and sub-tropical regions of the world. It can be round to pear-shaped with a thin skin that is green and turns yellow as it ripens. The flesh can be white or even pink, and the seeds can be eaten. The guava fruit contains lots of beta-carotene (which forms vitamin A in the body) and vitamin C. The flesh can make a great snack or dessert chopped up, or scooped straight from the skin.</template>
+</category>
+<category><pattern>HARICOT BEAN</pattern>
+<template>These little beans are white and grow all over the world. Baking them gives you baked beans - the beans are cooked in a tomato sauce. Try them on toast for breakfast. Beans are good for giving you energy.</template>
+</category>
+<category><pattern>HONEYDEW MELON</pattern>
+<template>Honeydew melons grow on trailing vines along the ground. There are THOUSANDS of different kinds of melon - they all have a hard outside, which you can't eat, and a juicy sweet inside that makes your mouth water!</template>
+</category>
+<category><pattern>ICEBERG LETTUCE</pattern>
+<template>There are many, many kinds of lettuce to choose from. Iceberg has a cool, crisp taste. It adds lots of crunch to a sandwich! Other types of lettuce can be curly, dark green or even red! Iceberg lettuce leaves can make a good wrapper for other foods - try wrapping one around a piece of cheese or a boiled egg.</template>
+</category>
+<category><pattern>JERUSALEM ARTICHOKE</pattern>
+<template>The knobbly Jerusalem artichoke is related to the pretty sunflower. But it isn't a type of artichoke and it doesn't come from Jerusalem! The bit of it we eat is an ugly little tuber (like a small thin potato). The yummy white flesh inside tastes amazing.</template>
+</category>
+<category><pattern>KIWI</pattern>
+<template>A kiwi fruit is hairy on the outside and soft in the middle. It is one of the only fruits to be green when it is ripe. You can scoop out the juicy green flesh with a spoon just like a boiled egg! One kiwi fruit contains all the vitamin C you need for a whole day. Vitamin C helps your body to heal cuts and bruises and to fight colds.</template>
+</category>
+<category><pattern>LEEK</pattern>
+<template>These are in the same family as onion and garlic – they are allium vegetables. Leeks need to be washed well to remove any dirt and grit between the white sections. You can boil or steam leeks to add to a recipe or stir-fry them with other vegetables. They are in season in the UK. over the winter months and are a good source of fibre.</template>
+</category>
+<category><pattern>LEMON</pattern>
+<template>Lemons were used on ships of famous explorers – the vitamin C stopped sailors from getting a disease called scurvy. You can squeeze out the juice and mix it with water to make a zingy drink.</template>
+</category>
+<category><pattern>MANGO</pattern>
+<template>Mangoes come in different shapes and sizes. You have to peel off the skin to eat the soft, juicy flesh inside. Mangoes grow best in hot countries like India and Malaysia. There are more than 2,500 different kinds of mango in the world!</template>
+</category>
+<category><pattern>MELON</pattern>
+<template>There are many types of melon; honeydew, cantaloupe and galia, to name a few. The flesh of these different melons, which is the bit we eat, comes in different colours; cantaloupe is usually orange because it is high in beta-carotene, honeydew is usually pale-green to yellow and galia is usually a deeper green. Unlike what its name may indicate, the watermelon is not actually a melon, just a distant relative of the melon. Its flesh is usually pink as it is high in the antioxidant, lycopene. Melons grow off a vine, and have a strong outer skin to protect them, which we don't eat. Melon goes great chopped up in a fruit salad, adding lots of colour and flavour. It is very refreshing as a snack in the hot summertime too!</template>
+</category>
+<category><pattern>MUSHROOM</pattern>
+<template>Although mushrooms are not fruits or vegetables (they are actually a type of fungus), they still count as one of your 5 A DAY. They are tasty on toast with scrambled egg and a grilled tomato.
+
+WARNING: Picking wild mushrooms is not safe! Only an expert can tell which ones are poisonous.</template>
+</category>
+<category><pattern>NECTARINE</pattern>
+<template>Nectarines are a type of peach with a thin smooth skin and firm flesh. The skin of a peach is more furry but the fruit tastes almost exactly the same. You have to be very gentle with them - they can bruise, just like you do, and the fruit will go bad where the bruise is.</template>
+</category>
+<category><pattern>NUT</pattern>
+<template>Your brain looks like a giant walnut. To make it grow it needs protein, which is found in nuts! A nut is actually a fruit, or the seed of a fruit. There are lots of different kinds but they all have a hard, dry shell around a kernel (the part of the nut you eat). A Brazil nut tree can live for 500 years!
+
+WARNING: Children under 5 should not be given whole or chopped nuts due to risk of choking. And please don't eat nuts if you are allergic to them!</template>
+</category>
+<category><pattern>OLIVE</pattern>
+<template>Olives are really fruits and they grow on trees. If green olives are left on the tree, they turn black. Have you had them on a pizza? Olives come in many sizes and flavours so you may need to try lots of different ones to find out which ones you like best.</template>
+</category>
+<category><pattern>ORANGE</pattern>
+<template>Oranges are really famous - they are one of the most popular fruits in the world! Oranges grow best in countries such as Spain and Italy - where it's hot and sunny during the day and cooler at night. A glass of pure orange juice counts as one of your 5 A DAY. Try cutting an orange into quarters and freezing it to make a healthy icy treat!</template>
+</category>
+<category><pattern>PEA</pattern>
+<template>Petit pois, mangetout, sugar snap and marrowfat are all fancy names for different types of pea. Thousands of tonnes of garden peas are grown in the United Kingdom every year to make frozen peas. A bag of these can come in handy if you've had a bump, but eating them is best of all! Sprinkle some over a salad a few minutes before serving for a cold crunchy taste.</template>
+</category>
+<category><pattern>PEANUT</pattern>
+<template>If you buy peanuts in their shells, they are often called monkey nuts - they are given this name because monkeys are thought to love them! Birds and squirrels like them too. Peanuts belong to the same family as peas and beans and grow underground.</template>
+</category>
+<category><pattern>PEAR</pattern>
+<template>Which fruits always travel in groups of two? Answer: pears! Pears are from the same family as apples but they are softer. They can be yellow, green, reddish or brown on the outside but they all have white, juicy flesh inside. One of the best-loved English pears is called Conference.</template>
+</category>
+<category><pattern>PEPPER</pattern>
+<template>Peppers can be red, yellow, green or orange - some are even white or purple! If you don't like the way one colour tastes, you might like another. The green ones are less sweet - red peppers are actually ripened green peppers.</template>
+</category>
+<category><pattern>PINEAPPLE</pattern>
+<template>It can take TWO YEARS to grow a pineapple. This rough, spiky fruit is actually made up of lots of smaller fruits that have stuck together. It was given its name because early explorers thought it looked like a pine cone. You could use the skin of a pineapple as a bowl to eat your fruit salad!</template>
+</category>
+<category><pattern>PUMPKIN</pattern>
+<template>Pumpkins are orange on the outside, and also on the inside. Although we associate pumpkins with Halloween decoration, they are actually a tasty vegetable too (but we don't eat the outside, just the flesh inside) and they are related to the cucumber. They can be boiled, baked, roasted or mashed and make delicious soups and even pumpkin pie! They have plenty of beta-carotene, which is turned into vitamin A in our bodies. It is the beta-carotene that give pumpkins their orange colour. There is another part of the pumpkin we use too! Pumpkin seeds can be roasted and eaten as a tasty snack, or sprinkled over yoghurt, and are a good source of essential fatty acids (the good fats).</template>
+</category>
+<category><pattern>QUINCE</pattern>
+<template>This fruit comes from the same family as the pear, but it can't be eaten raw. Slices of quince taste lovely in an apple crumble. Quince smells of perfume when it's been cooked, which means that some people also use it as an air freshener for their home or car! Why don't you ask an adult if you can try doing the same?</template>
+</category>
+<category><pattern>RADISH</pattern>
+<template>While some radishes are small and red, others are large and white - and shaped like carrots. Some of the red ones have pretty names like Cherry Belle and Scarlet Globe. Radishes give salad a real ZING! They have a peppery taste and are really crunchy.</template>
+</category>
+<category><pattern>RAISIN</pattern>
+<template>Nearly half of all the world's raisins come from California - that's in America. Raisins start off as black grapes. The grapes are turned into raisins by drying them in the sun. Sultanas are made the same way but with green grapes. Mini boxes of raisins are perfect for packed lunches.</template>
+</category>
+<category><pattern>RHUBARD</pattern>
+<template>Rhubarb was used in Asia long before it was first eaten in Britain. People sometimes grew it in their gardens just because it looked nice! It can be mixed with sweeter fruit like apple. Don't eat the leaves, they are poisonous!</template>
+</category>
+<category><pattern>SATSUMA</pattern>
+<template>Satsumas, clementines and mandarins are all different names for types of tangerine. They grow on trees and they grow best in warm weather. The juiciest ones are the heaviest ones. See if you can take the peel off in one piece!</template>
+</category>
+<category><pattern>STRAWBERRY</pattern>
+<template>Anyone for tennis? Followed by some strawberries of course! Around 25,000kg of strawberries are eaten at Wimbledon each year. Strawberries are actually members of the rose family. They are the only fruits to have their seeds on the outside - one strawberry can have as many as 200.</template>
+</category>
+<category><pattern>SWEET POTATO</pattern>
+<template>These top tubers grow best in tropical places where the weather is warm. They are famous for appearing in lots of Caribbean recipes! They come in all kinds of knobbly shapes and just like the name suggests, they are sweeter than ordinary potatoes. Try them baked - or boiled and mashed with carrots.</template>
+</category>
+<category><pattern>TOMATO</pattern>
+<template>Ask a friend if they think a tomato is a fruit or vegetable and see if they know the answer (it's a fruit!). The little cherry tomatoes are sweet and tasty in salads or in your lunchbox. Tomatoes are easy to grow in a pot in the garden. Buy some seeds and have a go!</template>
+</category>
+<category><pattern>TURNIP</pattern>
+<template>According to folklore, turnips were used as jack o' lanterns long before pumpkins! The turnip is sometimes muddled up with its bigger relative, the swede. Both are lovely cooked in a stew, or boiled then mashed, or roasted. Raw turnip can be grated into a salad.</template>
+</category>
+<category><pattern>UGLI FRUIT</pattern>
+<template>An Ugli fruit is a cross between a grapefruit and a mandarin! It is about the size of a grapefruit but it tastes a bit sweeter and has a wrinkly skin that peels easily. This funky fruit comes from Jamaica and is also grown in the USA - and it's not that ugly! It can look a bit weird because its yellowy green skin is thick, rough and puffy - and sometimes a bit blotchy!</template>
+</category>
+<category><pattern>VICTORIA PLUM</pattern>
+<template>Plums come in all sorts of colours but Victoria plums are dark red and are grown in England. They are super sweet eaten raw or can be cooked in tarts and crumbles. Plums have a stone inside. Can you think of other fruits that do?</template>
+</category>
+<category><pattern>VINE LEAF</pattern>
+<template>This is a leaf from the vines that grapes grow on - and these leaves CAN be eaten! They are picked when they are quite young and then cooked slightly to soften them. They are used like a wrapping paper to make little parcels filled with things such as rice or finely chopped vegetables.</template>
+</category>
+<category><pattern>WATERCRESS</pattern>
+<template>Watercress is grown in water! Give mum or dad a top tip - it will last longer in the fridge if it is kept in a bowl or jar of water. It is tastiest in the three "S"s - salads, sandwiches and soups. Try saying that quickly!</template>
+</category>
+<category><pattern>WATERMELON</pattern>
+<template>Watermelons grow along the ground and they can be ENORMOUS. They contain lots of water and are really, really refreshing! In China, children love drinking watermelon juice in summer to help them stay cool. The Chinese name for a watermelon is xigua.</template>
+</category>
+<category><pattern>YAM</pattern>
+<template>The skin of a yam is thick and rough like the bark of a tree! Yams are a bit like potatoes but their flesh can be white, yellow or even purple. They come from hot countries in the Caribbean and Africa, where people often mash them up and eat them in spicy stews and soups. A yam can grow to be heavier than a human adult!</template>
+</category>
+<category><pattern>ZUCCHINI</pattern>
+<template>Zucchini is the American name for a courgette. You can find more information on courgettes on this page. Take a look!</template>
+</category>
+
+</aiml>
