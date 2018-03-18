@@ -110,124 +110,85 @@ WARNING: Some berries are poisonous, so don't pick them without checking with an
 
 WARNING: Picking wild mushrooms is not safe! Only an expert can tell which ones are poisonous.</template>
 </category>
-<category><pattern></pattern>
-<template></template>
+<category><pattern>NECTARINE</pattern>
+<template>Nectarines are a type of peach with a thin smooth skin and firm flesh. The skin of a peach is more furry but the fruit tastes almost exactly the same. You have to be very gentle with them - they can bruise, just like you do, and the fruit will go bad where the bruise is.</template>
 </category>
-<category><pattern></pattern>
-<template></template>
+<category><pattern>NUT</pattern>
+<template>Your brain looks like a giant walnut. To make it grow it needs protein, which is found in nuts! A nut is actually a fruit, or the seed of a fruit. There are lots of different kinds but they all have a hard, dry shell around a kernel (the part of the nut you eat). A Brazil nut tree can live for 500 years!
+
+WARNING: Children under 5 should not be given whole or chopped nuts due to risk of choking. And please don't eat nuts if you are allergic to them!</template>
 </category>
-<category><pattern></pattern>
-<template></template>
+<category><pattern>OLIVE</pattern>
+<template>Olives are really fruits and they grow on trees. If green olives are left on the tree, they turn black. Have you had them on a pizza? Olives come in many sizes and flavours so you may need to try lots of different ones to find out which ones you like best.</template>
 </category>
-<category><pattern></pattern>
-<template></template>
+<category><pattern>ORANGE</pattern>
+<template>Oranges are really famous - they are one of the most popular fruits in the world! Oranges grow best in countries such as Spain and Italy - where it's hot and sunny during the day and cooler at night. A glass of pure orange juice counts as one of your 5 A DAY. Try cutting an orange into quarters and freezing it to make a healthy icy treat!</template>
 </category>
-<category><pattern></pattern>
-<template></template>
+<category><pattern>PEA</pattern>
+<template>Petit pois, mangetout, sugar snap and marrowfat are all fancy names for different types of pea. Thousands of tonnes of garden peas are grown in the United Kingdom every year to make frozen peas. A bag of these can come in handy if you've had a bump, but eating them is best of all! Sprinkle some over a salad a few minutes before serving for a cold crunchy taste.</template>
 </category>
-<category><pattern></pattern>
-<template></template>
+<category><pattern>PEANUT</pattern>
+<template>If you buy peanuts in their shells, they are often called monkey nuts - they are given this name because monkeys are thought to love them! Birds and squirrels like them too. Peanuts belong to the same family as peas and beans and grow underground.</template>
 </category>
-<category><pattern></pattern>
-<template></template>
+<category><pattern>PEAR</pattern>
+<template>Which fruits always travel in groups of two? Answer: pears! Pears are from the same family as apples but they are softer. They can be yellow, green, reddish or brown on the outside but they all have white, juicy flesh inside. One of the best-loved English pears is called Conference.</template>
 </category>
-<category><pattern></pattern>
-<template></template>
+<category><pattern>PEPPER</pattern>
+<template>Peppers can be red, yellow, green or orange - some are even white or purple! If you don't like the way one colour tastes, you might like another. The green ones are less sweet - red peppers are actually ripened green peppers.</template>
 </category>
-<category><pattern></pattern>
-<template></template>
+<category><pattern>PINEAPPLE</pattern>
+<template>It can take TWO YEARS to grow a pineapple. This rough, spiky fruit is actually made up of lots of smaller fruits that have stuck together. It was given its name because early explorers thought it looked like a pine cone. You could use the skin of a pineapple as a bowl to eat your fruit salad!</template>
 </category>
-<category><pattern></pattern>
-<template></template>
+<category><pattern>PUMPKIN</pattern>
+<template>Pumpkins are orange on the outside, and also on the inside. Although we associate pumpkins with Halloween decoration, they are actually a tasty vegetable too (but we don't eat the outside, just the flesh inside) and they are related to the cucumber. They can be boiled, baked, roasted or mashed and make delicious soups and even pumpkin pie! They have plenty of beta-carotene, which is turned into vitamin A in our bodies. It is the beta-carotene that give pumpkins their orange colour. There is another part of the pumpkin we use too! Pumpkin seeds can be roasted and eaten as a tasty snack, or sprinkled over yoghurt, and are a good source of essential fatty acids (the good fats).</template>
 </category>
-<category><pattern></pattern>
-<template></template>
+<category><pattern>QUINCE</pattern>
+<template>This fruit comes from the same family as the pear, but it can't be eaten raw. Slices of quince taste lovely in an apple crumble. Quince smells of perfume when it's been cooked, which means that some people also use it as an air freshener for their home or car! Why don't you ask an adult if you can try doing the same?</template>
 </category>
-<category><pattern></pattern>
-<template></template>
+<category><pattern>RADISH</pattern>
+<template>While some radishes are small and red, others are large and white - and shaped like carrots. Some of the red ones have pretty names like Cherry Belle and Scarlet Globe. Radishes give salad a real ZING! They have a peppery taste and are really crunchy.</template>
 </category>
-<category><pattern></pattern>
-<template></template>
+<category><pattern>RAISIN</pattern>
+<template>Nearly half of all the world's raisins come from California - that's in America. Raisins start off as black grapes. The grapes are turned into raisins by drying them in the sun. Sultanas are made the same way but with green grapes. Mini boxes of raisins are perfect for packed lunches.</template>
 </category>
-<category><pattern></pattern>
-<template></template>
+<category><pattern>RHUBARD</pattern>
+<template>Rhubarb was used in Asia long before it was first eaten in Britain. People sometimes grew it in their gardens just because it looked nice! It can be mixed with sweeter fruit like apple. Don't eat the leaves, they are poisonous!</template>
 </category>
-<category><pattern></pattern>
-<template></template>
+<category><pattern>SATSUMA</pattern>
+<template>Satsumas, clementines and mandarins are all different names for types of tangerine. They grow on trees and they grow best in warm weather. The juiciest ones are the heaviest ones. See if you can take the peel off in one piece!</template>
 </category>
-<category><pattern></pattern>
-<template></template>
+<category><pattern>STRAWBERRY</pattern>
+<template>Anyone for tennis? Followed by some strawberries of course! Around 25,000kg of strawberries are eaten at Wimbledon each year. Strawberries are actually members of the rose family. They are the only fruits to have their seeds on the outside - one strawberry can have as many as 200.</template>
 </category>
-<category><pattern></pattern>
-<template></template>
+<category><pattern>SWEET POTATO</pattern>
+<template>These top tubers grow best in tropical places where the weather is warm. They are famous for appearing in lots of Caribbean recipes! They come in all kinds of knobbly shapes and just like the name suggests, they are sweeter than ordinary potatoes. Try them baked - or boiled and mashed with carrots.</template>
 </category>
-<category><pattern></pattern>
-<template></template>
+<category><pattern>TOMATO</pattern>
+<template>Ask a friend if they think a tomato is a fruit or vegetable and see if they know the answer (it's a fruit!). The little cherry tomatoes are sweet and tasty in salads or in your lunchbox. Tomatoes are easy to grow in a pot in the garden. Buy some seeds and have a go!</template>
 </category>
-<category><pattern></pattern>
-<template></template>
+<category><pattern>TURNIP</pattern>
+<template>According to folklore, turnips were used as jack o' lanterns long before pumpkins! The turnip is sometimes muddled up with its bigger relative, the swede. Both are lovely cooked in a stew, or boiled then mashed, or roasted. Raw turnip can be grated into a salad.</template>
 </category>
-<category><pattern></pattern>
-<template></template>
+<category><pattern>UGLI FRUIT</pattern>
+<template>An Ugli fruit is a cross between a grapefruit and a mandarin! It is about the size of a grapefruit but it tastes a bit sweeter and has a wrinkly skin that peels easily. This funky fruit comes from Jamaica and is also grown in the USA - and it's not that ugly! It can look a bit weird because its yellowy green skin is thick, rough and puffy - and sometimes a bit blotchy!</template>
 </category>
-<category><pattern></pattern>
-<template></template>
+<category><pattern>VICTORIA PLUM</pattern>
+<template>Plums come in all sorts of colours but Victoria plums are dark red and are grown in England. They are super sweet eaten raw or can be cooked in tarts and crumbles. Plums have a stone inside. Can you think of other fruits that do?</template>
 </category>
-<category><pattern></pattern>
-<template></template>
+<category><pattern>VINE LEAF</pattern>
+<template>This is a leaf from the vines that grapes grow on - and these leaves CAN be eaten! They are picked when they are quite young and then cooked slightly to soften them. They are used like a wrapping paper to make little parcels filled with things such as rice or finely chopped vegetables.</template>
 </category>
-<category><pattern></pattern>
-<template></template>
+<category><pattern>WATERCRESS</pattern>
+<template>Watercress is grown in water! Give mum or dad a top tip - it will last longer in the fridge if it is kept in a bowl or jar of water. It is tastiest in the three "S"s - salads, sandwiches and soups. Try saying that quickly!</template>
 </category>
-<category><pattern></pattern>
-<template></template>
+<category><pattern>WATERMELON</pattern>
+<template>Watermelons grow along the ground and they can be ENORMOUS. They contain lots of water and are really, really refreshing! In China, children love drinking watermelon juice in summer to help them stay cool. The Chinese name for a watermelon is xigua.</template>
 </category>
-<category><pattern></pattern>
-<template></template>
+<category><pattern>YAM</pattern>
+<template>The skin of a yam is thick and rough like the bark of a tree! Yams are a bit like potatoes but their flesh can be white, yellow or even purple. They come from hot countries in the Caribbean and Africa, where people often mash them up and eat them in spicy stews and soups. A yam can grow to be heavier than a human adult!</template>
 </category>
-<category><pattern></pattern>
-<template></template>
+<category><pattern>ZUCCHINI</pattern>
+<template>Zucchini is the American name for a courgette. You can find more information on courgettes on this page. Take a look!</template>
 </category>
-<category><pattern></pattern>
-<template></template>
-</category>
-<category><pattern></pattern>
-<template></template>
-</category>
-<category><pattern></pattern>
-<template></template>
-</category>
-<category><pattern></pattern>
-<template></template>
-</category>
-<category><pattern></pattern>
-<template></template>
-</category>
-<category><pattern></pattern>
-<template></template>
-</category>
-<category><pattern></pattern>
-<template></template>
-</category>
-<category><pattern></pattern>
-<template></template>
-</category>
-<category><pattern></pattern>
-<template></template>
-</category>
-<category><pattern></pattern>
-<template></template>
-</category>
-<category><pattern></pattern>
-<template></template>
-</category>
-<category><pattern></pattern>
-<template></template>
-</category>
-<category><pattern></pattern>
-<template></template>
-</category>
-<category><pattern></pattern>
-<template></template>
-</category>
+
 </aiml>
