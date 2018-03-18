@@ -52,6 +52,7 @@
         </template>
     </category>
 
+
     <category><pattern>BYE</pattern>
         <template>
             <random>
@@ -144,7 +145,7 @@
    
     <category>
     <pattern>LETS SPEAK ABOUT *</pattern>
-    <template>I am EXPERT in fruits! I dont want to speak about <star/>, just only FRUITS</template>
+    <template>I am EXPERT in fruits! I dont want to speak about <star/>, just only FRUITS!</template>
     </category>
 
     <category>
