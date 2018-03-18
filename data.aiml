@@ -21,6 +21,8 @@
                 <li>What's up</li>
                 <li>Hi there</li>
             </random>
+            I am an expert on fruits  and I can tell you about any of them.
+        Please write a fruit name and check my knowledge.
         </template>
     </category>
 
@@ -32,6 +34,8 @@
                 <li>What's up</li>
                 <li>Hi there</li>
             </random>
+            I am an expert on fruits  and I can tell you about any of them.
+        Please write a fruit name and check my knowledge.
         </template>
     </category>
 
@@ -43,12 +47,104 @@
                 <li>What's up</li>
                 <li>Hi there</li>
             </random>
+            I am an expert on fruits  and I can tell you about any of them.
+        Please write a fruit name and check my knowledge.
         </template>
     </category>
-    
+
+    <category><pattern>BYE</pattern>
+        <template>
+            <random>
+                <li>Bye!</li>
+                <li>Goodby!</li>
+                <li>See You next time!</li>
+            </random>
+        </template>
+    </category>
+
+    <category><pattern>GOODBY</pattern>
+        <template>
+            <random>
+                <li>Bye!</li>
+                <li>Goodby!</li>
+                <li>See You next time!</li>
+            </random>
+        </template>
+    </category>
+
+    <category><pattern>END</pattern>
+        <template>
+            <random>
+                <li>Bye!</li>
+                <li>Goodby!</li>
+                <li>See You next time!</li>
+            </random>
+        </template>
+    </category>
+
+    <category><pattern>BYEBYE *</pattern>
+        <template>
+            <random>
+                <li>Bye!</li>
+                <li>Goodby!</li>
+                <li>See You next time!</li>
+            </random>
+        </template>
+    </category>
+
+    <category><pattern>HAVE A GOOD NIGHT</pattern>
+        <template>
+            <random>
+                <li>Bye!</li>
+                <li>Goodby!</li>
+                <li>See You next time!</li>
+            </random>
+        </template>
+    </category>
+
+    <category><pattern>HAVE TO GO</pattern>
+        <template>
+            <random>
+                <li>Bye!</li>
+                <li>Goodby!</li>
+                <li>See You next time!</li>
+            </random>
+        </template>
+    </category>
+
+    <category><pattern>BUHBYE</pattern>
+        <template>
+            <random>
+                <li>Bye!</li>
+                <li>Goodby!</li>
+                <li>See You next time!</li>
+            </random>
+        </template>
+    </category>
+
+    <category><pattern>ADIOS</pattern>
+        <template>
+            <random>
+                <li>Bye!</li>
+                <li>Goodby!</li>
+                <li>See You next time!</li>
+            </random>
+        </template>
+    </category>
+
+    <category><pattern>BY BY</pattern>
+        <template>
+            <random>
+                <li>Bye!</li>
+                <li>Goodby!</li>
+                <li>See You next time!</li>
+            </random>
+        </template>
+    </category>
+   
     <category>
     <pattern>LETS SPEAK ABOUT *</pattern>
-    <template>Ок, as You wish! Lets speak about <star/></template>
+    <template>I am EXPERT in fruits! I dont want to speak about <star/>, just only FRUITS</template>
     </category>
 
     <category>
